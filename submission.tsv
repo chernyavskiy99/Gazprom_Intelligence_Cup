@@ -1,0 +1,262 @@
+year	month	location	sku_id	ira	volume
+2019	7	Alpha City	sku #79	AC	3126.3
+2019	7	Alpha City	sku #15	AC	3032.34
+2019	7	Alpha City	sku #16	AC	3068.82
+2019	7	Alpha City	sku #22	AC	4712.2
+2019	7	Alpha City	sku #28	AC	1743.0
+2019	7	Alpha City	sku #30	AC	2960.76
+2019	7	Alpha City	sku #31	AC	2949.72
+2019	7	Alpha City	sku #33	AC	3032.64
+2019	7	Alpha City	sku #38	AC	3076.18
+2019	7	Alpha City	sku #41	AC	3042.78
+2019	7	Alpha City	sku #46	AC	2968.08
+2019	7	Alpha City	sku #48	AC	2759.98
+2019	7	Alpha City	sku #49	AC	6289.22
+2019	7	Alpha City	sku #42	AC	6621.39
+2019	7	Alpha City	sku #67	AC	2829.24
+2019	7	Alpha City	sku #25	AC	2441.88
+2019	7	Alpha City	sku #73	AC	2887.38
+2019	7	Alpha City	sku #78	AC	3170.94
+2019	7	Alpha City	sku #94	AC	3002.52
+2019	7	Alpha City	sku #106	AC	3032.34
+2019	7	Alpha City	sku #76	AC	2296.57
+2019	7	Alpha City	sku #77	AC	2161.71
+2019	7	Alpha City	sku #97	AC	2159.61
+2019	7	Alpha City	sku #100	AC	2228.5
+2019	7	Pirate Bay	sku #79	PB	3105.27
+2019	7	Pirate Bay	sku #15	PB	2928.45
+2019	7	Pirate Bay	sku #16	PB	3166.08
+2019	7	Pirate Bay	sku #22	PB	4651.2
+2019	7	Pirate Bay	sku #28	PB	1734.66
+2019	7	Pirate Bay	sku #30	PB	2801.82
+2019	7	Pirate Bay	sku #31	PB	2812.14
+2019	7	Pirate Bay	sku #33	PB	2916.42
+2019	7	Pirate Bay	sku #38	PB	2956.0
+2019	7	Pirate Bay	sku #41	PB	2923.62
+2019	7	Pirate Bay	sku #46	PB	2829.48
+2019	7	Pirate Bay	sku #48	PB	2713.5
+2019	7	Pirate Bay	sku #49	PB	5608.04
+2019	7	Pirate Bay	sku #42	PB	8048.51
+2019	7	Pirate Bay	sku #67	PB	2814.75
+2019	7	Pirate Bay	sku #25	PB	2417.94
+2019	7	Pirate Bay	sku #73	PB	2776.98
+2019	7	Pirate Bay	sku #78	PB	2796.78
+2019	7	Pirate Bay	sku #94	PB	3111.06
+2019	7	Pirate Bay	sku #106	PB	2904.81
+2019	7	Pirate Bay	sku #76	PB	2001.37
+2019	7	Pirate Bay	sku #77	PB	1909.59
+2019	7	Pirate Bay	sku #97	PB	1909.59
+2019	7	Pirate Bay	sku #100	PB	1998.76
+2019	7	Pirate Bay	sku #60	PB	2824.68
+2019	7	Pirate Bay	sku #105	PB	2433.78
+2019	7	Moon	sku #79	MN	3062.88
+2019	7	Moon	sku #16	MN	3054.48
+2019	7	Moon	sku #22	MN	4726.62
+2019	7	Moon	sku #28	MN	1620.84
+2019	7	Moon	sku #30	MN	2744.94
+2019	7	Moon	sku #31	MN	2827.98
+2019	7	Moon	sku #41	MN	2874.84
+2019	7	Moon	sku #46	MN	2767.86
+2019	7	Moon	sku #48	MN	2704.86
+2019	7	Moon	sku #25	MN	2340.78
+2019	7	Moon	sku #73	MN	2728.86
+2019	7	Moon	sku #34	MN	2743.08
+2019	7	Moon	sku #37	MN	6503.94
+2019	7	Moon	sku #27	MN	2725.62
+2019	7	Moon	sku #43	MN	3814.62
+2019	7	Moon	sku #44	MN	2920.44
+2019	7	Moon	sku #72	MN	2837.7
+2019	7	Moon	sku #81	MN	2772.24
+2019	7	Moon	sku #82	MN	3054.48
+2019	7	Moon	sku #83	MN	2808.54
+2019	7	Moon	sku #84	MN	3054.48
+2019	7	Moon	sku #7	MN	3112.2
+2019	7	Moon	sku #11	MN	2741.4
+2019	7	Moon	sku #17	MN	2885.34
+2019	7	Moon	sku #3	MN	2787.78
+2019	7	Moon	sku #5	MN	2736.18
+2019	7	Moon	sku #76	MN	2184.52
+2019	7	Moon	sku #77	MN	2114.88
+2019	7	Moon	sku #97	MN	2116.02
+2019	7	Moon	sku #100	MN	2149.15
+2019	7	Moon	sku #55	MN	2646.48
+2019	7	Moon	sku #98	MN	4723.2
+2019	7	Moon	sku #60	MN	2775.3
+2019	8	Alpha City	sku #79	AC	3140.22
+2019	8	Alpha City	sku #15	AC	3013.32
+2019	8	Alpha City	sku #16	AC	3091.5
+2019	8	Alpha City	sku #22	AC	4724.98
+2019	8	Alpha City	sku #28	AC	1794.0
+2019	8	Alpha City	sku #30	AC	2935.86
+2019	8	Alpha City	sku #31	AC	2930.7
+2019	8	Alpha City	sku #33	AC	3007.74
+2019	8	Alpha City	sku #38	AC	3057.16
+2019	8	Alpha City	sku #41	AC	3021.0
+2019	8	Alpha City	sku #46	AC	2938.86
+2019	8	Alpha City	sku #48	AC	2797.96
+2019	8	Alpha City	sku #49	AC	6208.7
+2019	8	Alpha City	sku #42	AC	6537.39
+2019	8	Alpha City	sku #67	AC	2810.22
+2019	8	Alpha City	sku #25	AC	2416.5
+2019	8	Alpha City	sku #73	AC	2862.48
+2019	8	Alpha City	sku #78	AC	3189.42
+2019	8	Alpha City	sku #94	AC	2977.62
+2019	8	Alpha City	sku #106	AC	3013.32
+2019	8	Alpha City	sku #76	AC	2316.19
+2019	8	Alpha City	sku #77	AC	2174.85
+2019	8	Alpha City	sku #97	AC	2172.75
+2019	8	Alpha City	sku #100	AC	2241.64
+2019	8	Pirate Bay	sku #79	PB	3106.23
+2019	8	Pirate Bay	sku #15	PB	2907.33
+2019	8	Pirate Bay	sku #16	PB	3188.76
+2019	8	Pirate Bay	sku #22	PB	4663.98
+2019	8	Pirate Bay	sku #28	PB	1785.66
+2019	8	Pirate Bay	sku #30	PB	2774.82
+2019	8	Pirate Bay	sku #31	PB	2793.66
+2019	8	Pirate Bay	sku #33	PB	2889.42
+2019	8	Pirate Bay	sku #38	PB	2934.88
+2019	8	Pirate Bay	sku #41	PB	2899.74
+2019	8	Pirate Bay	sku #46	PB	2798.16
+2019	8	Pirate Bay	sku #48	PB	2751.48
+2019	8	Pirate Bay	sku #49	PB	5546.3
+2019	8	Pirate Bay	sku #42	PB	7987.19
+2019	8	Pirate Bay	sku #67	PB	2793.63
+2019	8	Pirate Bay	sku #25	PB	2392.56
+2019	8	Pirate Bay	sku #73	PB	2749.98
+2019	8	Pirate Bay	sku #78	PB	2829.14
+2019	8	Pirate Bay	sku #94	PB	3084.06
+2019	8	Pirate Bay	sku #106	PB	2883.69
+2019	8	Pirate Bay	sku #76	PB	2016.01
+2019	8	Pirate Bay	sku #77	PB	1922.73
+2019	8	Pirate Bay	sku #97	PB	1922.73
+2019	8	Pirate Bay	sku #100	PB	2011.9
+2019	8	Pirate Bay	sku #60	PB	2797.68
+2019	8	Pirate Bay	sku #105	PB	2454.6
+2019	8	Moon	sku #79	MN	3054.36
+2019	8	Moon	sku #16	MN	3077.16
+2019	8	Moon	sku #22	MN	4722.66
+2019	8	Moon	sku #28	MN	1671.84
+2019	8	Moon	sku #30	MN	2717.94
+2019	8	Moon	sku #31	MN	2818.86
+2019	8	Moon	sku #41	MN	2850.96
+2019	8	Moon	sku #46	MN	2736.54
+2019	8	Moon	sku #48	MN	2742.84
+2019	8	Moon	sku #25	MN	2315.4
+2019	8	Moon	sku #73	MN	2701.86
+2019	8	Moon	sku #34	MN	2710.68
+2019	8	Moon	sku #37	MN	6539.1
+2019	8	Moon	sku #27	MN	2698.62
+2019	8	Moon	sku #43	MN	3748.8
+2019	8	Moon	sku #44	MN	2885.04
+2019	8	Moon	sku #72	MN	2810.7
+2019	8	Moon	sku #81	MN	2800.38
+2019	8	Moon	sku #82	MN	3077.16
+2019	8	Moon	sku #83	MN	2836.68
+2019	8	Moon	sku #84	MN	3077.16
+2019	8	Moon	sku #7	MN	3079.8
+2019	8	Moon	sku #11	MN	2775.84
+2019	8	Moon	sku #17	MN	2913.48
+2019	8	Moon	sku #3	MN	2761.38
+2019	8	Moon	sku #5	MN	2709.18
+2019	8	Moon	sku #76	MN	2208.52
+2019	8	Moon	sku #77	MN	2137.38
+2019	8	Moon	sku #97	MN	2138.52
+2019	8	Moon	sku #100	MN	2171.65
+2019	8	Moon	sku #55	MN	2624.34
+2019	8	Moon	sku #98	MN	4807.74
+2019	8	Moon	sku #60	MN	2748.3
+2019	9	Alpha City	sku #79	AC	3045.6
+2019	9	Alpha City	sku #15	AC	2999.82
+2019	9	Alpha City	sku #16	AC	3091.02
+2019	9	Alpha City	sku #22	AC	4713.04
+2019	9	Alpha City	sku #28	AC	1813.68
+2019	9	Alpha City	sku #30	AC	2922.36
+2019	9	Alpha City	sku #31	AC	2936.64
+2019	9	Alpha City	sku #33	AC	3002.22
+2019	9	Alpha City	sku #38	AC	3043.66
+2019	9	Alpha City	sku #41	AC	3007.5
+2019	9	Alpha City	sku #46	AC	2914.2
+2019	9	Alpha City	sku #48	AC	2810.68
+2019	9	Alpha City	sku #49	AC	6207.02
+2019	9	Alpha City	sku #42	AC	6540.15
+2019	9	Alpha City	sku #67	AC	2802.72
+2019	9	Alpha City	sku #25	AC	2419.38
+2019	9	Alpha City	sku #73	AC	2848.98
+2019	9	Alpha City	sku #78	AC	3193.56
+2019	9	Alpha City	sku #94	AC	2983.56
+2019	9	Alpha City	sku #106	AC	2999.82
+2019	9	Alpha City	sku #76	AC	2311.69
+2019	9	Alpha City	sku #77	AC	2174.01
+2019	9	Alpha City	sku #97	AC	2171.91
+2019	9	Alpha City	sku #100	AC	2240.8
+2019	9	Pirate Bay	sku #79	PB	3024.57
+2019	9	Pirate Bay	sku #15	PB	2893.83
+2019	9	Pirate Bay	sku #16	PB	3188.28
+2019	9	Pirate Bay	sku #22	PB	4652.04
+2019	9	Pirate Bay	sku #28	PB	1805.34
+2019	9	Pirate Bay	sku #30	PB	2761.32
+2019	9	Pirate Bay	sku #31	PB	2797.5
+2019	9	Pirate Bay	sku #33	PB	2883.9
+2019	9	Pirate Bay	sku #38	PB	2921.38
+2019	9	Pirate Bay	sku #41	PB	2886.24
+2019	9	Pirate Bay	sku #46	PB	2773.5
+2019	9	Pirate Bay	sku #48	PB	2764.2
+2019	9	Pirate Bay	sku #49	PB	5575.55
+2019	9	Pirate Bay	sku #42	PB	8034.18
+2019	9	Pirate Bay	sku #67	PB	2786.13
+2019	9	Pirate Bay	sku #25	PB	2395.44
+2019	9	Pirate Bay	sku #73	PB	2736.48
+2019	9	Pirate Bay	sku #78	PB	2809.5
+2019	9	Pirate Bay	sku #94	PB	3090.0
+2019	9	Pirate Bay	sku #106	PB	2870.19
+2019	9	Pirate Bay	sku #76	PB	2011.51
+2019	9	Pirate Bay	sku #77	PB	1918.23
+2019	9	Pirate Bay	sku #97	PB	1918.23
+2019	9	Pirate Bay	sku #100	PB	2007.4
+2019	9	Pirate Bay	sku #60	PB	2784.18
+2019	9	Pirate Bay	sku #105	PB	2457.0
+2019	9	Moon	sku #79	MN	2968.2
+2019	9	Moon	sku #16	MN	3076.68
+2019	9	Moon	sku #22	MN	4710.72
+2019	9	Moon	sku #28	MN	1691.52
+2019	9	Moon	sku #30	MN	2699.94
+2019	9	Moon	sku #31	MN	2818.2
+2019	9	Moon	sku #41	MN	2832.96
+2019	9	Moon	sku #46	MN	2707.38
+2019	9	Moon	sku #48	MN	2755.56
+2019	9	Moon	sku #25	MN	2313.78
+2019	9	Moon	sku #73	MN	2683.86
+2019	9	Moon	sku #34	MN	2692.68
+2019	9	Moon	sku #37	MN	6506.94
+2019	9	Moon	sku #27	MN	2699.76
+2019	9	Moon	sku #43	MN	3726.66
+2019	9	Moon	sku #44	MN	2898.48
+2019	9	Moon	sku #72	MN	2799.12
+2019	9	Moon	sku #81	MN	2806.14
+2019	9	Moon	sku #82	MN	3076.68
+2019	9	Moon	sku #83	MN	2843.1
+2019	9	Moon	sku #84	MN	3076.68
+2019	9	Moon	sku #7	MN	3073.44
+2019	9	Moon	sku #11	MN	2780.7
+2019	9	Moon	sku #17	MN	2919.24
+2019	9	Moon	sku #3	MN	2743.38
+2019	9	Moon	sku #5	MN	2691.18
+2019	9	Moon	sku #76	MN	2206.06
+2019	9	Moon	sku #77	MN	2138.58
+2019	9	Moon	sku #97	MN	2139.72
+2019	9	Moon	sku #100	MN	2172.85
+2019	9	Moon	sku #55	MN	2623.92
+2019	9	Moon	sku #98	MN	4894.86
+2019	9	Moon	sku #60	MN	2730.3
+2019	7	Village	sku #30	VL	3481.8
+2019	7	Village	sku #46	VL	3395.58
+2019	7	Village	sku #25	VL	2697.78
+2019	7	Village	sku #73	VL	3451.74
+2019	8	Village	sku #30	VL	3499.62
+2019	8	Village	sku #46	VL	3413.4
+2019	8	Village	sku #25	VL	2717.22
+2019	8	Village	sku #73	VL	3469.56
+2019	9	Village	sku #30	VL	3507.36
+2019	9	Village	sku #46	VL	3421.14
+2019	9	Village	sku #25	VL	2714.16
+2019	9	Village	sku #73	VL	3477.3
